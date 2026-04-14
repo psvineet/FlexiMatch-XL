@@ -1,5 +1,5 @@
 # FlexiMatch-XL
-
+### Data Matching Utility (Excel ↔ CSV)
 A flexible Python utility to compare values from an Excel dataset against a list of values in a CSV file and export the results into structured Excel outputs.
 
 This tool is generic and can be used for any type of value matching.
@@ -156,7 +156,7 @@ Creates an Excel file with:
 
 ---
 
-## Project Structure
+## Required Project Structure
 
 ```
 .
